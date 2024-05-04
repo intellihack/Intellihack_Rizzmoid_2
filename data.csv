@@ -27,6 +27,31 @@ Greet,Hello it's good to talk to you
 Greet,Hey what have you been up to?
 Greet,Hi nice to see you
 Greet,Hello how's your day going?
+Greet,Good day!
+Greet,Top o' the mornin' to ya!
+Greet,Welcome aboard!
+Greet,Glad you could make it!
+Greet,It's a pleasure to see you all!
+Greet,Let's get started shall we?
+Greet,A warm welcome to class!
+Greet,Morning everyone!
+Greet,Good evening class!
+Greet,How's everyone doing today?
+Greet,Hiya friend!
+Greet,Hey friend!
+Greet,Hello friend!
+Greet,Hello there friend!
+Greet,Hey friend how's it going?
+Greet,Hi friend what's up?
+Greet,Hey buddy how are you?
+Greet,Hiya how's it going?
+Greet,Hello how are you?
+Greet,Hi how are you doing?
+Greet,Hey there how are you?
+Greet,Hi friend what's up?
+Greet,Hey buddy how are you?
+Greet,Hiya how's it going?
+Greet,Hello how are you?
 Farewell,Goodbye
 Farewell,See you later
 Farewell,Take care
@@ -52,6 +77,47 @@ Farewell,Goodbye for now
 Farewell,Until next time
 Farewell,Take care of yourself
 Farewell,Take it easy now
+Farewell,Take care of yourself
+Farewell,Bye bye now
+Farewell,Until then
+Farewell,Take it easy!
+Farewell,See you next time
+Farewell,Until later!
+Farewell,Goodnight!
+Farewell,Stay safe
+Farewell,See you tomorrow!
+Farewell,Until we meet again
+Farewell,Have a great day!
+Farewell,See ya later
+Farewell,Bye for now!
+Farewell,Goodbye for now
+Farewell,Keep in touch
+Farewell,Take care now
+Farewell,So long!
+Farewell,See you soon!
+Farewell,Be well
+Farewell,Until next time!
+Farewell,Catch you later!
+Farewell,Goodnight sleep tight!
+Farewell,Until our paths cross again
+Farewell,Take care of yourself out there
+Farewell,Keep in touch okay?
+Farewell,Bye for now take care
+Farewell,Stay awesome!
+Farewell,Until the next rendezvous
+Farewell,Take care and stay awesome
+Farewell,Bye bye until next time
+Farewell,Keep shining brightly
+Farewell,See you in the not-too-distant future
+Farewell,Stay strong and keep smiling
+Farewell,Goodbye for now keep rocking!
+Farewell,See you in the near future
+Farewell,Take care and be kind to yourself
+Farewell,Until the next adventure
+Farewell,Keep up the fantastic work!
+Farewell,See you on the flip side
+Farewell,Take care and keep thriving
+Farewell,Bye bye until we meet again
 Inquiry,What's the weather like today?
 Inquiry,Can you tell me the time?
 Inquiry,Where is the nearest restaurant?
@@ -78,6 +144,30 @@ Inquiry,What's the best hiking trail?
 Inquiry,How do I contact customer support?
 Inquiry,Where is the nearest gas station?
 Inquiry,What's the fastest way to get to downtown?
+Inquiry,What's the best way to learn guitar?
+Inquiry,Where can I find a dog-friendly park?
+Inquiry,What's the average temperature this time of year?
+Inquiry,How do I check my bank account balance?
+Inquiry,What's the best place to watch the sunset?
+Inquiry,Where can I find live music tonight?
+Inquiry,What's the latest movie release?
+Inquiry,How do I change my mailing address?
+Inquiry,Where can I buy organic groceries?
+Inquiry,What's the best way to learn Spanish?
+Inquiry,What's the current traffic situation?
+Inquiry,How do I enroll my child in school?
+Inquiry,Where can I find a pet-friendly hotel?
+Inquiry,What's the best route for a scenic drive?
+Inquiry,How do I track my package?
+Inquiry,Where can I find a good sushi-making class?
+Inquiry,What's the best place for stargazing?
+Inquiry,How do I file my taxes online?
+Inquiry,Where can I find a reliable plumber?
+Inquiry,What's the schedule for the local farmers' market?
+Inquiry,How do I book a table at a fancy restaurant?
+Inquiry,Where can I find a good spot for fishing?
+Inquiry,What's the best way to stay fit in the city?
+Inquiry,How do I apply for a library card?
 Feedback,This service is great!
 Feedback,I'm satisfied with the support.
 Feedback,The response time was excellent.
@@ -169,3 +259,108 @@ Navigation,Logout
 Navigation,Exit program
 Navigation,Close this window
 Navigation,Take a break
+Complaint,I'm getting an error message whenever I try to upload a file.
+Complaint,The audio quality on the video call is very poor.
+Complaint,Having to log in every time is quite annoying.
+Complaint,The long wait times for customer support are unacceptable.
+Complaint,The website is not accessible for users with visual impairments.
+Complaint,The lack of language options makes it difficult for me to use this system.
+Complaint,The product description did not accurately reflect its capabilities.
+Complaint,The advertised features are not actually available.
+Complaint,I'm concerned about the privacy policies of this app.
+Complaint,The system seems biased towards certain demographics.
+Complaint,The app keeps crashing unexpectedly.
+Complaint,I'm frustrated with the lack of progress on fixing known issues.
+Complaint,The system is not accessible for users with disabilities.
+Complaint,The pricing model is too expensive for my needs.
+Complaint,The terms of service are unclear and restrictive.
+Complaint,I'm not satisfied with the quality of the customer service I received.
+Complaint,The system feels outdated and in need of an upgrade.
+Complaint,I regret purchasing this product.
+Feedback,This is incredibly helpful thank you for your assistance.
+Feedback,The accuracy of the results is impressive.
+Feedback,I found the overall experience to be quite user-friendly.
+Feedback,This system has made my work process much more efficient.
+Feedback,I would really appreciate it if you could add a feature for ...
+Feedback,The design of the interface is very clean and intuitive.
+Feedback,It would be great if the system could provide more detailed explanations.
+Feedback,Overall I'm very satisfied with the performance of this tool.
+Feedback,I would definitely recommend this system to others.
+Feedback,The search functionality is particularly powerful and effective.
+Feedback,It's clear that a lot of thought and effort went into developing this system.
+Feedback,I'm having a little trouble understanding some of the terminology used.
+Feedback,The response time is very fast which is much appreciated.
+Feedback,I would love to see more customization options available.
+Feedback,This is a valuable resource that I will be using frequently.
+Feedback,The integration with other tools is seamless and convenient.
+Feedback,There's a slight learning curve but overall it's easy to pick up.
+Feedback,I'm impressed with the level of detail provided in the results.
+Feedback,It would be helpful if there were some video tutorials available.
+Feedback,This system is a great example of innovative technology.
+Feedback,I can see the potential for this system to have a significant impact.
+Feedback,The customer support team was very responsive and helpful.
+Feedback,I'm excited to see how this system continues to develop in the future.
+Feedback,This is exactly what I was looking for thank you!
+Feedback,The data visualization tools are very informative and easy to understand.
+Feedback,I would be happy to provide additional feedback if needed.
+Feedback,This system has exceeded my expectations in many ways.
+Feedback,I'm confident that this system will be a valuable asset to my work.
+Feedback,The overall user experience is very positive.
+Navigation,Open my calendar.
+Navigation,Go back to the search results.
+Navigation,Can I see my recent browsing history?
+Navigation,Take me to the settings page.
+Navigation,Is there a way to filter these results?
+Navigation,Can I sort these items by price?
+Navigation,Show me more options for travel destinations.
+Navigation,Is there a help section available?
+Navigation,Can I access this information in a different format?
+Navigation,Open a new tab to search for flights.
+Navigation,Can I bookmark this page for later?
+Navigation,Is there a way to print this document?
+Navigation,Can I share this article with a friend?
+Navigation,Log me out of this account.
+Navigation,Close this window and return to the main menu.
+Navigation,Can I take a break and come back to this later?
+Navigation,Is there a way to save my progress on this task?
+Navigation,Can I customize the layout of this page?
+Navigation,Show me advanced search options.
+Navigation,Can I search by specific criteria like brand or color?
+Navigation,Is there a way to refine my search query?
+Navigation,Can I see related content to this topic?
+Navigation,Open this link in a new window.
+Navigation,Can I navigate using voice commands?
+Navigation,Skip this step and move on to the next section.
+Navigation,Can I go back and edit my previous answer?
+Navigation,Is there a way to provide feedback on this system?
+Navigation,Can I access my account information?
+Navigation,Show me a tutorial on how to use this feature.
+Request,Can you summarize this article for me?
+Request,I'd like to schedule a meeting for tomorrow at 2 pm.
+Request,Could you please translate this text into Spanish?
+Request,Is there a way to contact customer service?
+Request,Can you recommend some restaurants near me that serve Italian food?
+Request,I'd like to set an alarm for 7 am tomorrow morning.
+Request,Could you show me pictures of different dog breeds?
+Request,Can you help me find a recipe for chocolate chip cookies?
+Request,I'd like to book a hotel room in Paris for next weekend.
+Request,Is there a way to play music on this device?
+Request,Could you show me the weather forecast for the next week?
+Request,I'd like to see a definition for the word "ambiguous."
+Request,Can you help me find a gift for my mother's birthday?
+Request,I'd like to order a ride-sharing service to take me to the airport.
+Request,Could you show me a map of the city center?
+Request,Is there a way to add this item to my shopping cart?
+Request,I'd like to see a list of upcoming movies playing in theaters.
+Request,Can you help me track my package delivery?
+Request,I'd like to see reviews for this product before I buy it.
+Request,Could you show me some tutorials on how to fix a leaky faucet?
+Request,Is there a way to connect with a live person for assistance?
+Request,I'd like to see a list of the top news stories today.
+Request,Can you play a song by my favorite artist?
+Request,I'd like to see some historical facts about the Roman Empire.
+Request,Could you show me a calendar of upcoming events in my city?
+Request,Is there a way to change the language settings on this device?
+Request,I'd like to see a list of public transportation options available.
+Request,Can you help me find a doctor who specializes in allergies?
+Request,I'd like to see a list of ingredients for this recipe.
