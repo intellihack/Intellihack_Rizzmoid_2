@@ -1,0 +1,171 @@
+Intent,Example
+Greet,Hi
+Greet,Hello
+Greet,Hey there
+Greet,Good morning
+Greet,Howdy
+Greet,Hi there
+Greet,Hey
+Greet,Good afternoon
+Greet,Hello there
+Greet,Hi how can I help you?
+Greet,Good to see you
+Greet,Hey what's up?
+Greet,Hiya
+Greet,Hey how are you doing?
+Greet,Hello nice to meet you
+Greet,Hi how's it going?
+Greet,Hey buddy
+Greet,Hi how have you been?
+Greet,Hello how's everything?
+Greet,Hey there how can I assist you?
+Greet,Hi friend
+Greet,Hello what's new?
+Greet,Hey long time no see
+Greet,Hi what's happening?
+Greet,Hello it's good to talk to you
+Greet,Hey what have you been up to?
+Greet,Hi nice to see you
+Greet,Hello how's your day going?
+Farewell,Goodbye
+Farewell,See you later
+Farewell,Take care
+Farewell,Bye for now
+Farewell,Have a good one
+Farewell,Bye
+Farewell,Until next time
+Farewell,See you soon
+Farewell,Adios
+Farewell,Take it easy
+Farewell,Take care now
+Farewell,Bye bye
+Farewell,Until we meet again
+Farewell,Goodnight
+Farewell,So long
+Farewell,See you tomorrow
+Farewell,Have a great day
+Farewell,See ya
+Farewell,Bye for now
+Farewell,Until later
+Farewell,Catch you later
+Farewell,Goodbye for now
+Farewell,Until next time
+Farewell,Take care of yourself
+Farewell,Take it easy now
+Inquiry,What's the weather like today?
+Inquiry,Can you tell me the time?
+Inquiry,Where is the nearest restaurant?
+Inquiry,How do I get to the nearest bus stop?
+Inquiry,What are the top tourist attractions?
+Inquiry,What's the latest news?
+Inquiry,How many calories in a banana?
+Inquiry,Who won the game last night?
+Inquiry,Where can I find a good book?
+Inquiry,What's the best pizza place in town?
+Inquiry,Where can I buy tickets?
+Inquiry,What's the capital of France?
+Inquiry,How do I reset my password?
+Inquiry,What's the meaning of this word?
+Inquiry,Where can I rent a car?
+Inquiry,What's the closest pharmacy?
+Inquiry,How far is the nearest airport?
+Inquiry,Where can I find a good cup of coffee?
+Inquiry,What's the best way to learn Python?
+Inquiry,What's the population of New York City?
+Inquiry,What's the exchange rate for euros?
+Inquiry,How do I make a reservation?
+Inquiry,What's the best hiking trail?
+Inquiry,How do I contact customer support?
+Inquiry,Where is the nearest gas station?
+Inquiry,What's the fastest way to get to downtown?
+Feedback,This service is great!
+Feedback,I'm satisfied with the support.
+Feedback,The response time was excellent.
+Feedback,Your assistance was very helpful.
+Feedback,I appreciate your help.
+Feedback,Thanks for your help.
+Feedback,I'm happy with the outcome.
+Feedback,You did a fantastic job.
+Feedback,The service exceeded my expectations.
+Feedback,I'm really pleased with the service.
+Feedback,Great job keep it up!
+Feedback,Your team is doing an excellent job.
+Feedback,Excellent service thank you.
+Feedback,You've been very helpful thanks.
+Feedback,Thanks for going above and beyond.
+Feedback,The support team is very responsive.
+Feedback,The assistance provided was exceptional.
+Feedback,Thank you for your prompt response.
+Feedback,Your help was invaluable thank you.
+Feedback,I'm impressed with the quality of service.
+Feedback,You've been very professional thanks.
+Complaint,I'm unhappy with the product.
+Complaint,The service was terrible.
+Complaint,My order was incorrect.
+Complaint,The quality of the product is poor.
+Complaint,I'm disappointed with the experience.
+Complaint,The customer service was unsatisfactory.
+Complaint,There was a problem with my order.
+Complaint,I'm dissatisfied with the outcome.
+Complaint,The delivery was late.
+Complaint,The product didn't meet my expectations.
+Complaint,I've had a bad experience with your company.
+Complaint,The website is difficult to navigate.
+Complaint,The service was below par.
+Complaint,There was a mistake in my bill.
+Complaint,The product is defective.
+Complaint,I'm frustrated with the service.
+Complaint,The customer support was unhelpful.
+Complaint,The experience was disappointing.
+Complaint,There was an error in my order.
+Complaint,The product didn't work as expected.
+Request,Can you provide more information?
+Request,Please send me the details.
+Request,I need assistance with this issue.
+Request,Could you help me with this problem?
+Request,Please clarify this point.
+Request,Can you explain this further?
+Request,I'm requesting additional support.
+Request,Please assist me with this matter.
+Request,Can you help me understand this?
+Request,Please provide further details.
+Request,Can you explain how this works?
+Request,Can you assist me with this issue?
+Request,Please give me more information about this.
+Request,I'm looking for help with this issue.
+Request,Can you guide me through this process?
+Request,Can you provide a solution for this problem?
+Request,Please help me resolve this issue.
+Request,Can you give me some advice on this?
+Request,Please provide assistance with this problem.
+Request,I'm seeking help with this matter.
+Request,Can you provide support for this issue?
+Navigation,Go to settings
+Navigation,Show me more options
+Navigation,Can I see previous results
+Navigation,Take me back
+Navigation,Restart from the beginning
+Navigation,Open a new search
+Navigation,Can we explore a different topic
+Navigation,Is there anything else I can help you with
+Navigation,Show me help options
+Navigation,What can I do here
+Navigation,Can I navigate by voice
+Navigation,Skip this step
+Navigation,Move on to the next section
+Navigation,Can I come back to this later
+Navigation,Save my progress
+Navigation,Is there a way to customize this
+Navigation,Show advanced options
+Navigation,Open the main menu
+Navigation,Can I search by specific criteria
+Navigation,Filter by category
+Navigation,Sort by date
+Navigation,Can I see related content
+Navigation,Open this in a new window
+Navigation,Print this page
+Navigation,Can I share this
+Navigation,Logout
+Navigation,Exit program
+Navigation,Close this window
+Navigation,Take a break
